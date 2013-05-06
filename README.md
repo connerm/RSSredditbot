@@ -1,7 +1,7 @@
 RSSredditbot
 ============
 
-A reddit bot which can be used to post/message rss feed content
+A reddit bot which can be used to post/message rss feed content. 
 Uses a PRAW (Python Reddit API Wrapper), flask webserver, and RSSparser python modules
 
 The script creates the flask web server and loops continuously, waiting for a period of time
