@@ -10,4 +10,5 @@ to avoid spamming/overposting content
 OAuth and username and password must be added, and coded to desired functionality
 
 Another just for fun/learning project
--connerm
+
+© 2013 Conner McConkey
