@@ -11,4 +11,4 @@ OAuth and username and password must be added, and coded to desired functionalit
 
 Another just for fun/learning project
 
-© 2013 Conner McConkey
+© 2013 Conner McConkey, Released under the MIT License.
